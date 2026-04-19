@@ -25,5 +25,5 @@ After training, it can predict new values based on unseen data
 - You can run it in Jupyter Notebook or Google Colab
 
 ## Notes
-This is a basic project focused on learning and practicing machine learning concepts.  
-It can be extended with more data, feature engineering, or different models
+This is a basic project focused on learning and practicing machine learning concepts 
+It can be extended with more data, feature engineering, or different modelsm, I added my own notes to the model to guide me.
