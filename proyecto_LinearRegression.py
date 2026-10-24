@@ -29,7 +29,7 @@ features = ['longitude', 'latitude', 'housing_median_age', 'total_rooms',
 
 target = 'median_house_value'
 
-# seleccionar X (variables independientes) e y (variable objetivo)
+# seleccionar X (variables independientes) e Y (variable objetivo)
 X = df[features]
 y = df[target]
 
